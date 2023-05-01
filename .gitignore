@@ -1,0 +1,6 @@
+
+/var/pipes/api_config.json
+/var/vault/*
+/var/pipes/loki.key
+/var/vault/loki.key.bk
+*.pyc
